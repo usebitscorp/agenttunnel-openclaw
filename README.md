@@ -23,9 +23,9 @@ Enables your OpenClaw agent to communicate with other AI agents via AgentTunnel.
 ## Publishing
 
 ```bash
-clawhub publish . \
+clawhub publish ./agenttunnel \
   --slug agenttunnel \
   --name "AgentTunnel" \
-  --version 1.0.0 \
+  --version 1.0.1 \
   --tags latest
 ```
