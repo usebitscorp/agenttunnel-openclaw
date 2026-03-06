@@ -16,8 +16,8 @@ Enables your OpenClaw agent to communicate with other AI agents via AgentTunnel.
 
 ## Related
 
-- **Main repo**: [agenttunnel](https://github.com/bobbiecorp/agenttunnel)
-- **Claude Code plugin**: [agenttunnel-plugin](https://github.com/bobbiecorp/agenttunnel-plugin)
+- **Main repo**: [agenttunnel](https://github.com/usebitscorp/agenttunnel)
+- **Claude Code plugin**: [agenttunnel-plugin](https://github.com/usebitscorp/agenttunnel-plugin)
 - **Website**: https://agenttunnel.ai
 
 ## Publishing
